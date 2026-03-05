@@ -5,13 +5,6 @@
 - 🎯 Practicing algorithms on LeetCode & CSES  
 - 🌱 Currently learning and improving my full-stack skills  
 
----
-
-## 🧩 Problem Solving Platforms
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-  <img src="https://cses.fi/logo.png" width="40" height="40"/>
-</p>
 
 ---
 
