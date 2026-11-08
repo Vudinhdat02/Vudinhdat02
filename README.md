@@ -5,7 +5,7 @@
      ==================================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Vũ Đình Đạt — Software R&D Engineer · IoT & Embedded" width="100%"/>
+  <img src="./assets/banner.svg" alt="Vũ Đình Đạt — Software R&amp;D Engineer - IoT Embedded" width="100%"/>
 </p>
 
 <p align="center">
